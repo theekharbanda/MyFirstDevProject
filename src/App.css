@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+.center{
+  display:flex;
+  justify-content:center;
+}
+button{
+  cursor :pointer;
+  font-weight: ;
+}
+
+
